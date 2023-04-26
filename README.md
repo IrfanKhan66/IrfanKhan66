@@ -1,4 +1,4 @@
-################################################################## Hi there 👋
+#                                                                            Hi there 👋
 
 # 💫 About Me:
 🔭 I’m currently working on being creative<br>👯 I’m looking to collaborate on open-source web projects<br>🤝 I’m looking for help with my career guidance<br>🌱 I’m currently learning AI, ML<br>💬 Ask me about building web applications<br>🐱‍💻 Looking for contributors ? Here I am
